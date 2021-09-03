@@ -8,3 +8,4 @@ System.out.println("The sum of a and b is = " + Integer.sum(a, b));
 }
 }
 //by weebmastter666
+//Code is OK!
